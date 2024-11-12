@@ -73,7 +73,7 @@ A basci gui-based system that manages inventory for a small business. The system
 <h3>Update Product</h3>
 <div align="center">
 
-![Login Screen](/static/img/screenshots/Update-product.png)
+![Login Screen](/static/img/screenshots/update-product.png)
 </div>
 
 <h3>User Management</h3>
