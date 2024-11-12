@@ -1,0 +1,12 @@
+inventory_management_system/
+│
+├── main.py                    # Streamlit interface
+├── inventory_system.py         # Coordinates classes and connects them with Streamlit
+├── product.py                  # Product class with CRUD, search, and filter options
+├── user.py                     # User class with CRUD, search, and filter options
+├── role_permission.py          # RolePermission class with CRUD, search, and filter options
+├── data/
+│   ├── products.json           # JSON file for product data
+│   ├── users.json              # JSON file for user data
+│   └── roles.json              # JSON file for role data
+└── requirements.txt            # Python package dependencies
