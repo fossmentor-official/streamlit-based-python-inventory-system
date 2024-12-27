@@ -7,6 +7,7 @@ A basci gui-based system that manages inventory for a small business. The system
 
 ### Technologies Used
 - Python
+- Dev Container
 
 ## Requirements (Pythons's libraries)
 1. Streamlit (Creating beautiful, interactive web applications)
